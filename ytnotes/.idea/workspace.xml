@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80e526f8-a992-451c-8fcc-cb61c4f15ae1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WImZwh96m2e1vVz8NTgOlCwG2p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Vue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80e526f8-a992-451c-8fcc-cb61c4f15ae1" name="Default Changelist" comment="" />
+      <created>1578845541962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578845541962</updated>
+      <workItem from="1578845543459" duration="5766000" />
+      <workItem from="1578943146228" duration="9187000" />
+    </task>
+    <task id="LOCAL-00001" summary="add basic popup view">
+      <created>1578853059718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578853059718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add readme">
+      <created>1578943340926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578943340926</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add basic layout">
+      <created>1578951176706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578951176706</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add basic layout">
+      <created>1578951188200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578951188200</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add fetching and saving note">
+      <created>1578960477218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578960477218</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add basic popup view" />
+    <MESSAGE value="Add readme" />
+    <MESSAGE value="Add basic layout" />
+    <MESSAGE value="Add fetching and saving note" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add fetching and saving note" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#ESLint" timestamp="1578849003347">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#ESLint/0.23.1440.877/-264.-1057.1920.1057@0.23.1440.877" timestamp="1578849003347" />
+    <state x="420" y="184" width="1139" height="670" key="#Plugins" timestamp="1578943320414">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="296" y="-863" width="1139" height="670" key="#Plugins/0.23.1440.877/-264.-1057.1920.1057@-264.-1057.1920.1057" timestamp="1578845976243" />
+    <state x="420" y="184" key="#Plugins/0.23.1440.877/-264.-1057.1920.1057@0.23.1440.877" timestamp="1578943320414" />
+    <state x="140" y="-1010" key="CommitChangelistDialog2" timestamp="1578960477077">
+      <screen x="-264" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="140" y="-1010" key="CommitChangelistDialog2/0.23.1440.877/-264.-1057.1920.1057@-264.-1057.1920.1057" timestamp="1578960477077" />
+    <state x="303" y="62" key="CommitChangelistDialog2/0.23.1440.877/-264.-1057.1920.1057@0.23.1440.877" timestamp="1578943340624" />
+    <state x="378" y="218" width="683" height="486" key="find.popup" timestamp="1578848191085">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="378" y="218" width="683" height="486" key="find.popup/0.23.1440.877/-264.-1057.1920.1057@0.23.1440.877" timestamp="1578848191085" />
+    <state x="361" y="-284" key="run.anything.popup" timestamp="1578946768051">
+      <screen x="-264" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="361" y="-284" key="run.anything.popup/0.23.1440.877/-264.-1057.1920.1057@-264.-1057.1920.1057" timestamp="1578946768051" />
+    <state x="361" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1578959877806">
+      <screen x="-264" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="361" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-264.-1057.1920.1057@-264.-1057.1920.1057" timestamp="1578959877806" />
+    <state x="469" y="218" width="670" height="561" key="search.everywhere.popup/0.23.1440.877/-264.-1057.1920.1057@0.23.1440.877" timestamp="1578943942778" />
+  </component>
+</project>

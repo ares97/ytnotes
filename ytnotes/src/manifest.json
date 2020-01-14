@@ -1,0 +1,26 @@
+{
+  "name": "YT Notes",
+  "description": "A web extension for taking notes next to your fav yt videos",
+  "version": null,
+  "manifest_version": 2,
+  "icons": {
+    "48": "icons/icon_48.png",
+    "128": "icons/icon_128.png"
+  },
+  "browser_action": {
+    "default_title": "YT Notes",
+    "default_popup": "popup/popup.html"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "options_ui": {
+    "page": "options/options.html",
+    "chrome_style": true
+  },
+  "permissions": [
+    "tabs", "https://6fcvk5h0te.execute-api.eu-west-1.amazonaws.com/*"
+  ]
+}
